@@ -1,3 +1,6 @@
+/**
+ * Compare and confirm the uniqueness of the given string
+ */
 package com.butterbox.multi;
 
 import java.util.ArrayList;
